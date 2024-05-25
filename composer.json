@@ -1,0 +1,7 @@
+{
+    "name": "yourusername/cms",
+    "description": "Simple CMS",
+    "require": {
+        "php": ">=5.6"
+    }
+}
